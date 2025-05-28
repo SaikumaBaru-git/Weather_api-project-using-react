@@ -21,8 +21,8 @@ A beautiful and simple React-based weather application that displays current wea
 - GitHub Pages for hosting
 
 ## 📸 Screenshots
-
-*(Include screenshots here if you want — optional)*
+![image](https://github.com/user-attachments/assets/858194d9-efda-4c25-adf7-9e09b65eda8c)
+![image](https://github.com/user-attachments/assets/2e510542-1fc6-495e-9356-3983eab2a162)
 
 ## 🛠️ Getting Started Locally
 
